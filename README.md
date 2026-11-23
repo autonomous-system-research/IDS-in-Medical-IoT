@@ -1,8 +1,13 @@
-# SLR — Intrusion Detection and AI-Driven Security for the Internet of Medical Things, Medical Image Data and Federated Healthcare Settings (2025–2026)
+# Leveraging AI and Federated Learning for Security in Medical IoT (IoMT) and Medical Imaging Data: A Systematic Literature Revie
 
-Prepared for: Md Wahidur Rahman, WRESLab — 2026-11-17
+1. Md Wahidur Rahman; md_wahidur.rahman@students.tamuk.edu
+2. Mohammad Sadman Tahsin; mohammad.tahsin@students.tamuk.edu
+3. Haitham Y. Adarbah; haitham.adarbah@tamuk.edu
+4. Afzel Noore; afzel.noore@tamuk.edu
 
----
+AI-Based Autonomous Systems Research Lab, Department of Electrical Engineering and Computer Science, Frank H. Dotterweich College of Engineering, Texas A&M University-Kingsville, MSC 192, 917 W. Avenue B, Kingsville, TX 78363, USA
+
+* Corresponding Author email: haitham.adarbah@tamuk.edu
 
 ## What this package contains
 
