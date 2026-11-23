@@ -1,4 +1,4 @@
-# Leveraging AI and Federated Learning for Security in Medical IoT (IoMT) and Medical Imaging Data: A Systematic Literature Revie
+# Leveraging AI and Federated Learning for Security in Medical IoT (IoMT) and Medical Imaging Data: A Systematic Literature Review
 
 1. Md Wahidur Rahman; md_wahidur.rahman@students.tamuk.edu
 2. Mohammad Sadman Tahsin; mohammad.tahsin@students.tamuk.edu
