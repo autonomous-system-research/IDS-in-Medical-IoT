@@ -1,0 +1,18 @@
+technique_family,n_studies_of_50
+CNN,13
+Federated learning,13
+LSTM / BiLSTM,11
+Graph neural network,11
+Explainable AI (SHAP/LIME),8
+Ensemble / stacking,7
+Blockchain,7
+Metaheuristic optimisation,6
+Transformer / attention,6
+XGBoost / gradient boosting,6
+Autoencoder,5
+Differential privacy,5
+Random Forest,4
+GRU / BiGRU,3
+Reinforcement learning,2
+Quantum / post-quantum,2
+GAN,1

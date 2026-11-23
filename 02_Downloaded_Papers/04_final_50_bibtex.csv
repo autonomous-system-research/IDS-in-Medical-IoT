@@ -1,0 +1,501 @@
+paper_id,bibtex_key,doi,bibtex_entry
+P01,Adabara2026,10.1038/s41598-026-55707-2,"@article{Adabara2026,
+  author  = {Ibrahim Adabara and Bashir Olaniyi Sadiq and Aliyu Nuhu Shuaibu and Yale Ibrahim Danjuma and Venkateswarlu Maninti and Mutebi Joe},
+  title   = {{Trustworthy and ethical intrusion detection for healthcare internet of medical things using reinforcement learning and governance rules}},
+  journal = {Scientific Reports},
+  year    = {2026},
+  doi     = {10.1038/s41598-026-55707-2},
+  url     = {https://doi.org/10.1038/s41598-026-55707-2},
+  publisher = {Nature Portfolio},
+  note    = {Paper ID P01; quality-appraisal score 92/100}
+}"
+P02,Kateb2026,10.3390/computers15080512,"@article{Kateb2026,
+  author  = {Faris Kateb and Owais Khan and Fazal Qudus Khan},
+  title   = {{From Classical to Deep Learning: A Hybrid CNN-Ensemble Framework for Intrusion Detection in Internet of Medical Things}},
+  journal = {Computers},
+  year    = {2026},
+  doi     = {10.3390/computers15080512},
+  url     = {https://doi.org/10.3390/computers15080512},
+  publisher = {Multidisciplinary Digital Publishing Institute},
+  note    = {Paper ID P02; quality-appraisal score 92/100}
+}"
+P03,Saeed2025,10.1038/s41598-025-31897-z,"@article{Saeed2025,
+  author  = {Hassan Saeed and Mehwish Naseer and Afaf Rasool and Amjad Alsirhani and Faeiz Alserhani and Ghadah Naif Alwakid and Farhan Ullah and Hamad Naeem and Yue Zhao},
+  title   = {{A novel adaptive hybrid intrusion detection system with lightweight optimization for enhanced security in internet of medical things}},
+  journal = {Scientific Reports},
+  year    = {2025},
+  doi     = {10.1038/s41598-025-31897-z},
+  url     = {https://doi.org/10.1038/s41598-025-31897-z},
+  publisher = {Nature Portfolio},
+  note    = {Paper ID P03; quality-appraisal score 90/100}
+}"
+P04,Avula2025,10.48084/etasr.12242,"@article{Avula2025,
+  author  = {Chitty Avula and Sathyanarayana Bachala},
+  title   = {{A Deep Feature Ensemble Framework for Intrusion Detection in Internet of Medical Things}},
+  journal = {Engineering Technology & Applied Science Research},
+  year    = {2025},
+  doi     = {10.48084/etasr.12242},
+  url     = {https://doi.org/10.48084/etasr.12242},
+  publisher = {Engineering, Technology & Applied Science Research},
+  note    = {Paper ID P04; quality-appraisal score 90/100}
+}"
+P05,Palaniappan2026,10.1038/s41598-026-47264-5,"@article{Palaniappan2026,
+  author  = {Saranya Palaniappan and Sudhakar Sengan},
+  title   = {{Hybrid feature selection for IoMT based intrusion detection system for integrating mutual information filtering with deep learning based accelerated metaheuristic optimization}},
+  journal = {Scientific Reports},
+  year    = {2026},
+  doi     = {10.1038/s41598-026-47264-5},
+  url     = {https://doi.org/10.1038/s41598-026-47264-5},
+  publisher = {Nature Portfolio},
+  note    = {Paper ID P05; quality-appraisal score 90/100}
+}"
+P06,Priyatharsan2026,10.1002/spy2.70249,"@article{Priyatharsan2026,
+  author  = {Uthayanathan Priyatharsan and Subbiah Karthikeyan},
+  title   = {{HybridNet-IoMT: Parallel Multi-Branch Deep Learning Framework for Cybersecurity Attack Detection in Internet of Medical Things}},
+  journal = {Security and Privacy},
+  year    = {2026},
+  doi     = {10.1002/spy2.70249},
+  url     = {https://doi.org/10.1002/spy2.70249},
+  publisher = {Wiley},
+  note    = {Paper ID P06; quality-appraisal score 90/100}
+}"
+P07,Gencturk2026,10.3390/app16104921,"@article{Gencturk2026,
+  author  = {Eren Gencturk and Beste Ustubioglu and Guzin Ulutas and Iraklis Symeonidis},
+  title   = {{Class Imbalance in IoMT Datasets: Evaluating Balancing Strategies for Learning-Based Attack Detection}},
+  journal = {Applied Sciences},
+  year    = {2026},
+  doi     = {10.3390/app16104921},
+  url     = {https://doi.org/10.3390/app16104921},
+  publisher = {Multidisciplinary Digital Publishing Institute},
+  note    = {Paper ID P07; quality-appraisal score 88/100}
+}"
+P08,Alatawi2025,10.1038/s41598-025-11253-x,"@article{Alatawi2025,
+  author  = {Mohammed Naif Alatawi},
+  title   = {{Optimizing security and energy efficiency in IoT-Based health monitoring systems for wireless body area networks}},
+  journal = {Scientific Reports},
+  year    = {2025},
+  doi     = {10.1038/s41598-025-11253-x},
+  url     = {https://doi.org/10.1038/s41598-025-11253-x},
+  publisher = {Nature Portfolio},
+  note    = {Paper ID P08; quality-appraisal score 88/100}
+}"
+P09,Padmini2026,10.1007/s43926-026-00531-3,"@article{Padmini2026,
+  author  = {M. S. Padmini and V. Amruth and A. S. Sindhu and M. Asha Rani and V. K. Annapurna and C. S. Asha},
+  title   = {{Adaptive lightweight intrusion detection system for internet of things and internet of medical things security}},
+  journal = {Discover Internet of Things},
+  year    = {2026},
+  doi     = {10.1007/s43926-026-00531-3},
+  url     = {https://doi.org/10.1007/s43926-026-00531-3},
+  publisher = {Springer Nature},
+  note    = {Paper ID P09; quality-appraisal score 88/100}
+}"
+P10,Berguiga2025,10.1109/access.2025.3543127,"@article{Berguiga2025,
+  author  = {Abdelwahed Berguiga and Ahlem Harchay and Ayman Massaoudi},
+  title   = {{HIDS-IoMT: A Deep Learning-Based Intelligent Intrusion Detection System for the Internet of Medical Things}},
+  journal = {IEEE Access},
+  year    = {2025},
+  doi     = {10.1109/access.2025.3543127},
+  url     = {https://doi.org/10.1109/access.2025.3543127},
+  publisher = {Institute of Electrical and Electronics Engineers},
+  note    = {Paper ID P10; quality-appraisal score 87/100}
+}"
+P11,Gueriani2025,10.1016/j.icte.2025.08.011,"@article{Gueriani2025,
+  author  = {Afrah Gueriani and Hamza Kheddar and Ahmed Cherif Mazari and Mohamed Chahine Ghanem},
+  title   = {{A robust cross-domain IDS using BiGRU-LSTM-attention for medical and industrial IoT security}},
+  journal = {ICT Express},
+  year    = {2025},
+  doi     = {10.1016/j.icte.2025.08.011},
+  url     = {https://doi.org/10.1016/j.icte.2025.08.011},
+  publisher = {Elsevier BV},
+  note    = {Paper ID P11; quality-appraisal score 86/100}
+}"
+P12,Naik2025,10.1038/s41598-025-15292-2,"@article{Naik2025,
+  author  = {Nithesh Naik and Neha Surendranath and Sai Annamaiah Basava Raju and Chennaiah Madduri and Nagaraju Dasari and Vinod Kumar Shukla and Vathsala Patil},
+  title   = {{Hybrid deep learning-enabled framework for enhancing security, data integrity, and operational performance in Healthcare Internet of Things (H-IoT) environments}},
+  journal = {Scientific Reports},
+  year    = {2025},
+  doi     = {10.1038/s41598-025-15292-2},
+  url     = {https://doi.org/10.1038/s41598-025-15292-2},
+  publisher = {Nature Portfolio},
+  note    = {Paper ID P12; quality-appraisal score 86/100}
+}"
+P13,Aversano2026,10.1007/s10207-026-01285-3,"@article{Aversano2026,
+  author  = {Lerina Aversano and Stefano Galantucci and Andrea Porcelli},
+  title   = {{SurIoT: Automatic generation of Internet-of-Medical-Things Network Intrusion Detection and Prevention Rules}},
+  journal = {International Journal of Information Security},
+  year    = {2026},
+  doi     = {10.1007/s10207-026-01285-3},
+  url     = {https://doi.org/10.1007/s10207-026-01285-3},
+  publisher = {Springer Science+Business Media},
+  note    = {Paper ID P13; quality-appraisal score 86/100}
+}"
+P14,AlOtaibi2025,10.1038/s41598-025-31981-4,"@article{AlOtaibi2025,
+  author  = {Shaha Al-Otaibi and Sarra Ayouni and Nadeem Sarwar and Asma Irshad and Faizan Ullah},
+  title   = {{AI-driven intrusion detection and lightweight authentication framework for secure and efficient medical sensor networks}},
+  journal = {Scientific Reports},
+  year    = {2025},
+  doi     = {10.1038/s41598-025-31981-4},
+  url     = {https://doi.org/10.1038/s41598-025-31981-4},
+  publisher = {Nature Portfolio},
+  note    = {Paper ID P14; quality-appraisal score 86/100}
+}"
+P15,Tanvir2026,10.1038/s41598-026-45041-y,"@article{Tanvir2026,
+  author  = {Md Iftekhar Monzur Tanvir and Nusrat Yasmin Nadia and Habibor Rahman Rabby and Md Habibul Arif and Kamruddin Nur and Debasish Ghose},
+  title   = {{Spatial-temporal graph neural network with autoencoder pretraining for intrusion detection in healthcare IoT ecosystems}},
+  journal = {Scientific Reports},
+  year    = {2026},
+  doi     = {10.1038/s41598-026-45041-y},
+  url     = {https://doi.org/10.1038/s41598-026-45041-y},
+  publisher = {Nature Portfolio},
+  note    = {Paper ID P15; quality-appraisal score 85/100}
+}"
+P16,Samreen2026,10.1038/s41598-026-65467-8,"@article{Samreen2026,
+  author  = {Shirina Samreen and Hafeez Ur Rehman Siddiqui and Nada Alzaben and Noor Ayesha and Abdallah Yousif and Muhammad I. Khan},
+  title   = {{A Multi-Head Feature-Expert Detection framework for intrusion detection in the Internet of Medical Things}},
+  journal = {Scientific Reports},
+  year    = {2026},
+  doi     = {10.1038/s41598-026-65467-8},
+  url     = {https://doi.org/10.1038/s41598-026-65467-8},
+  publisher = {Nature Portfolio},
+  note    = {Paper ID P16; quality-appraisal score 85/100}
+}"
+P17,Alanazi2025,10.32604/cmc.2025.066753,"@article{Alanazi2025,
+  author  = {Saad Awadh Alanazi and Fahad Ahmad},
+  title   = {{Future-Proofing CIA Triad with Authentication for Healthcare: Integrating Hybrid Architecture of ML and DL with IDPS for Robust IoMT Security}},
+  journal = {Computers Materials & Continua},
+  year    = {2025},
+  doi     = {10.32604/cmc.2025.066753},
+  url     = {https://doi.org/10.32604/cmc.2025.066753},
+  publisher = {Tech Science Press},
+  note    = {Paper ID P17; quality-appraisal score 84/100}
+}"
+P18,Sogut2026,10.3390/s26134036,"@article{Sogut2026,
+  author  = {Esra Sogut and Mazhar Kayaoglu and Onur Polat},
+  title   = {{MSCA-Net: A Multi-Scale Depthwise Attention Network for Multi-Class Intrusion Detection in Internet of Medical Things}},
+  journal = {Sensors},
+  year    = {2026},
+  doi     = {10.3390/s26134036},
+  url     = {https://doi.org/10.3390/s26134036},
+  publisher = {Multidisciplinary Digital Publishing Institute},
+  note    = {Paper ID P18; quality-appraisal score 84/100}
+}"
+P19,Hosain2025,10.1038/s41598-025-07790-0,"@article{Hosain2025,
+  author  = {Yousif Hosain and Muhammet Cakmak},
+  title   = {{XAI-XGBoost: an innovative explainable intrusion detection approach for securing internet of medical things systems}},
+  journal = {Scientific Reports},
+  year    = {2025},
+  doi     = {10.1038/s41598-025-07790-0},
+  url     = {https://doi.org/10.1038/s41598-025-07790-0},
+  publisher = {Nature Portfolio},
+  note    = {Paper ID P19; quality-appraisal score 83/100}
+}"
+P20,Alalwany2025,10.3390/s25030624,"@article{Alalwany2025,
+  author  = {Easa Alalwany and Bader Alsharif and Yazeed Alotaibi and Abdullah Alfahaid and Imad Mahgoub and Mohammad Ilyas},
+  title   = {{Stacking Ensemble Deep Learning for Real-Time Intrusion Detection in IoMT Environments}},
+  journal = {Sensors},
+  year    = {2025},
+  doi     = {10.3390/s25030624},
+  url     = {https://doi.org/10.3390/s25030624},
+  publisher = {Multidisciplinary Digital Publishing Institute},
+  note    = {Paper ID P20; quality-appraisal score 81/100}
+}"
+P21,Goumidi2025,10.1109/access.2025.3563158,"@article{Goumidi2025,
+  author  = {Hadjer Goumidi and Samuel Pierre},
+  title   = {{Real-Time Anomaly Detection in IoMT Networks Using Stacking Model and a Healthcare-Specific Dataset}},
+  journal = {IEEE Access},
+  year    = {2025},
+  doi     = {10.1109/access.2025.3563158},
+  url     = {https://doi.org/10.1109/access.2025.3563158},
+  publisher = {Institute of Electrical and Electronics Engineers},
+  note    = {Paper ID P21; quality-appraisal score 81/100}
+}"
+P22,Mezina2025,10.1109/access.2025.3553966,"@article{Mezina2025,
+  author  = {Anzhelika Mezina and Jari Nurmi and Aleksandr Ometov},
+  title   = {{Novel Hybrid UNet++ and LSTM Model for Enhanced Attack Detection and Classification in IoMT Traffic}},
+  journal = {IEEE Access},
+  year    = {2025},
+  doi     = {10.1109/access.2025.3553966},
+  url     = {https://doi.org/10.1109/access.2025.3553966},
+  publisher = {Institute of Electrical and Electronics Engineers},
+  note    = {Paper ID P22; quality-appraisal score 81/100}
+}"
+P23,Akar2025,10.1109/access.2025.3526883,"@article{Akar2025,
+  author  = {Gokhan Akar and Shaaban Sahmoud and Mustafa Onat and Unal Cavusoglu and Emmanuel Malondo},
+  title   = {{L2D2: A Novel LSTM Model for Multi-Class Intrusion Detection Systems in the Era of IoMT}},
+  journal = {IEEE Access},
+  year    = {2025},
+  doi     = {10.1109/access.2025.3526883},
+  url     = {https://doi.org/10.1109/access.2025.3526883},
+  publisher = {Institute of Electrical and Electronics Engineers},
+  note    = {Paper ID P23; quality-appraisal score 80/100}
+}"
+P24,Algamdi2025,10.1109/jiot.2025.3611815,"@article{Algamdi2025,
+  author  = {Hammam Algamdi and Gagangeet Singh Aujla and Amritpal Singh and Anish Jindal},
+  title   = {{Energy-Aware and Explainable Automated Machine Learning for Anomaly Detection in Healthcare IoT}},
+  journal = {IEEE Internet of Things Journal},
+  year    = {2025},
+  doi     = {10.1109/jiot.2025.3611815},
+  url     = {https://doi.org/10.1109/jiot.2025.3611815},
+  publisher = {Institute of Electrical and Electronics Engineers},
+  note    = {Paper ID P24; quality-appraisal score 78/100}
+}"
+P25,Alnazzawi2026,10.32604/cmes.2026.085378,"@article{Alnazzawi2026,
+  author  = {Noha Alnazzawi and Nazik Alturki and Umar Mujahid and Fahad Masood and Jawad Ahmad},
+  title   = {{ExGAME: An Explainable Game Theoretic and Adaptive Intrusion Detection Framework for Human-Centric Medical IoT}},
+  journal = {Computer Modeling in Engineering & Sciences},
+  year    = {2026},
+  doi     = {10.32604/cmes.2026.085378},
+  url     = {https://doi.org/10.32604/cmes.2026.085378},
+  publisher = {Tech Science Press},
+  note    = {Paper ID P25; quality-appraisal score 78/100}
+}"
+P26,Alamri2026,10.1007/s10586-025-05932-7,"@article{Alamri2026,
+  author  = {Malak Alamri and Noshina Tariq and Mamoona Humayun and Menwa Alshammeri},
+  title   = {{Energy-efficient threat detection in IoT healthcare using AI and blockchain-enhanced fog-cloud architecture}},
+  journal = {Cluster Computing},
+  year    = {2026},
+  doi     = {10.1007/s10586-025-05932-7},
+  url     = {https://doi.org/10.1007/s10586-025-05932-7},
+  publisher = {Springer Science+Business Media},
+  note    = {Paper ID P26; quality-appraisal score 77/100}
+}"
+P27,Hafid2025,10.3390/math13101574,"@article{Hafid2025,
+  author  = {Abdelatif Hafid and Mohamed Rahouti and Mohammed Aledhari},
+  title   = {{Optimizing Intrusion Detection in IoMT Networks Through Interpretable and Cost-Aware Machine Learning}},
+  journal = {Mathematics},
+  year    = {2025},
+  doi     = {10.3390/math13101574},
+  url     = {https://doi.org/10.3390/math13101574},
+  publisher = {Multidisciplinary Digital Publishing Institute},
+  note    = {Paper ID P27; quality-appraisal score 76/100}
+}"
+P28,Alkahtani2026,10.7717/peerj-cs.3908,"@article{Alkahtani2026,
+  author  = {Hasan Alkahtani and Theyazn H. H. Aldhyani and Nadhem Ebrahim},
+  title   = {{IoTHS-based framework for developing a healthcare security system}},
+  journal = {PeerJ Computer Science},
+  year    = {2026},
+  doi     = {10.7717/peerj-cs.3908},
+  url     = {https://doi.org/10.7717/peerj-cs.3908},
+  publisher = {PeerJ, Inc.},
+  note    = {Paper ID P28; quality-appraisal score 76/100}
+}"
+P29,Zachos2025,10.1109/access.2025.3547572,"@article{Zachos2025,
+  author  = {Georgios Zachos and Georgios Mantas and Kyriakos Porfyrakis and Joaquim Manuel Camoes Sobral de Bastos and Jonathan Rodriguez},
+  title   = {{Anomaly-Based Intrusion Detection for IoMT Networks: Design, Implementation, Dataset Generation, and ML Algorithms Evaluation}},
+  journal = {IEEE Access},
+  year    = {2025},
+  doi     = {10.1109/access.2025.3547572},
+  url     = {https://doi.org/10.1109/access.2025.3547572},
+  publisher = {Institute of Electrical and Electronics Engineers},
+  note    = {Paper ID P29; quality-appraisal score 75/100}
+}"
+P30,Sun2025,10.1109/jiot.2025.3645938,"@article{Sun2025,
+  author  = {Yiya Sun and Fazlullah Khan and Gautam Srivastava and Ryan Alturki and Syed Tauhid Ullah Shah and Hao Wang},
+  title   = {{Neuro-Symbolic Intent-Based Intrusion Detection System for Internet of Medical Things}},
+  journal = {IEEE Internet of Things Journal},
+  year    = {2025},
+  doi     = {10.1109/jiot.2025.3645938},
+  url     = {https://doi.org/10.1109/jiot.2025.3645938},
+  publisher = {Institute of Electrical and Electronics Engineers},
+  note    = {Paper ID P30; quality-appraisal score 75/100}
+}"
+P31,Joseph2026,10.1109/tetci.2026.3692606,"@article{Joseph2026,
+  author  = {Nirmal Joseph and Sudhish N. George and Ameer P. M and Kiran Raja},
+  title   = {{Securing Medical AI: Adversarial Attack Detection and Mitigation in CAD Systems}},
+  journal = {IEEE Transactions on Emerging Topics in Computational Intelligence},
+  year    = {2026},
+  doi     = {10.1109/tetci.2026.3692606},
+  url     = {https://doi.org/10.1109/tetci.2026.3692606},
+  publisher = {Institute of Electrical and Electronics Engineers},
+  note    = {Paper ID P31; quality-appraisal score 75/100}
+}"
+P32,Begum2026,10.1038/s41598-026-57992-3,"@article{Begum2026,
+  author  = {Khadija Begum and Md Mamunur Rashid and Md Ariful Islam Mozumder and Hee Cheol Kim and Moon-Il Joo},
+  title   = {{A privacy-preserving federated learning approach with multilevel differential privacy for lung cancer detection}},
+  journal = {Scientific Reports},
+  year    = {2026},
+  doi     = {10.1038/s41598-026-57992-3},
+  url     = {https://doi.org/10.1038/s41598-026-57992-3},
+  publisher = {Nature Portfolio},
+  note    = {Paper ID P32; quality-appraisal score 92/100}
+}"
+P33,AlSharo2026,10.1371/journal.pone.0355601,"@article{AlSharo2026,
+  author  = {Yasser Mohammad Al-Sharo and Mohammed Tawfik and Ali Mansour Almadani and Amr H. Abdelhaliem and Islam S. Fathi and Gaber Hassan},
+  title   = {{FedMamba-IoMT: Federated state space models with differential privacy and byzantine resilience for privacy-preserving intrusion detection in Internet of Medical Things}},
+  journal = {PLoS ONE},
+  year    = {2026},
+  doi     = {10.1371/journal.pone.0355601},
+  url     = {https://doi.org/10.1371/journal.pone.0355601},
+  publisher = {Public Library of Science},
+  note    = {Paper ID P33; quality-appraisal score 91/100}
+}"
+P34,Alsolami2026,10.3390/s26051592,"@article{Alsolami2026,
+  author  = {Theyab Alsolami and Mohammad Ilyas},
+  title   = {{FedSMOTE-DP: Privacy-Aware Federated Ensemble Learning for Intrusion Detection in IoMT Networks}},
+  journal = {Sensors},
+  year    = {2026},
+  doi     = {10.3390/s26051592},
+  url     = {https://doi.org/10.3390/s26051592},
+  publisher = {Multidisciplinary Digital Publishing Institute},
+  note    = {Paper ID P34; quality-appraisal score 90/100}
+}"
+P35,Othman2026,10.1007/s12559-026-10610-w,"@article{Othman2026,
+  author  = {Soufiane Ben Othman and Darren M. Kennedy},
+  title   = {{Dynamic Weighted K-Asynchronous Federated Learning for Privacy-Preserving Intrusion Detection in Wireless Body Area Networks}},
+  journal = {Cognitive Computation},
+  year    = {2026},
+  doi     = {10.1007/s12559-026-10610-w},
+  url     = {https://doi.org/10.1007/s12559-026-10610-w},
+  publisher = {Springer Science+Business Media},
+  note    = {Paper ID P35; quality-appraisal score 90/100}
+}"
+P36,Othman2026b,10.1038/s41598-026-43649-8,"@article{Othman2026b,
+  author  = {Soufiane Ben Othman and Obaid Ali},
+  title   = {{Quantum-enhanced privacy aggregation for healthcare monitoring in wireless body area networks}},
+  journal = {Scientific Reports},
+  year    = {2026},
+  doi     = {10.1038/s41598-026-43649-8},
+  url     = {https://doi.org/10.1038/s41598-026-43649-8},
+  publisher = {Nature Portfolio},
+  note    = {Paper ID P36; quality-appraisal score 88/100}
+}"
+P37,Sengan2026,10.1038/s41598-026-56167-4,"@article{Sengan2026,
+  author  = {Sudhakar Sengan and Chin-Shiuh Shieh},
+  title   = {{Non-IID and aware federated intrusion detection with PBFT with secured model aggregation for multi institutional healthcare internet of things networks}},
+  journal = {Scientific Reports},
+  year    = {2026},
+  doi     = {10.1038/s41598-026-56167-4},
+  url     = {https://doi.org/10.1038/s41598-026-56167-4},
+  publisher = {Nature Portfolio},
+  note    = {Paper ID P37; quality-appraisal score 87/100}
+}"
+P38,FahimUlIslam2025,10.1109/tce.2025.3544885,"@article{FahimUlIslam2025,
+  author  = {Md. Fahim-Ul-Islam and Amitabha Chakrabarty and Md. Golam Rabiul Alam and Siti Sarah Binti Maidin},
+  title   = {{A Resource-Efficient Federated Learning Framework for Intrusion Detection in IoMT Networks}},
+  journal = {IEEE Transactions on Consumer Electronics},
+  year    = {2025},
+  doi     = {10.1109/tce.2025.3544885},
+  url     = {https://doi.org/10.1109/tce.2025.3544885},
+  publisher = {Institute of Electrical and Electronics Engineers},
+  note    = {Paper ID P38; quality-appraisal score 83/100}
+}"
+P39,Almohammadi2026,10.3389/fmed.2026.1989148,"@article{Almohammadi2026,
+  author  = {Khalid Almohammadi and Anas Bilal and Talha Mehboob Alam and Muhammad Sajid Farooq and Muhammad Saleem and Malek Alrashidi and Mohammed Alreshoodi},
+  title   = {{An explainable data-local federated learning framework for intrusion detection in connected healthcare systems}},
+  journal = {Frontiers in Medicine},
+  year    = {2026},
+  doi     = {10.3389/fmed.2026.1989148},
+  url     = {https://doi.org/10.3389/fmed.2026.1989148},
+  publisher = {Frontiers Media},
+  note    = {Paper ID P39; quality-appraisal score 82/100}
+}"
+P40,Daulay2025,10.3390/math13152471,"@article{Daulay2025,
+  author  = {Amarudin Daulay and Kalamullah Ramli and Ruki Harwahyu and Taufik Hidayat and Bernardi Pranggono},
+  title   = {{Novel Federated Graph Contrastive Learning for IoMT Security: Protecting Data Poisoning and Inference Attacks}},
+  journal = {Mathematics},
+  year    = {2025},
+  doi     = {10.3390/math13152471},
+  url     = {https://doi.org/10.3390/math13152471},
+  publisher = {Multidisciplinary Digital Publishing Institute},
+  note    = {Paper ID P40; quality-appraisal score 81/100}
+}"
+P41,Baihan2026,10.1038/s41598-026-41771-1,"@article{Baihan2026,
+  author  = {Abdullah Baihan and Natalia Kryvinska and Mohammed Amoon and Weiwei Jiang and Zabeeh Ullah and Muhammad Shafiq},
+  title   = {{Cloud assisted blockchain-enabled split federated learning framework for security and privacy-preserving of IoMT in healthcare 5.0}},
+  journal = {Scientific Reports},
+  year    = {2026},
+  doi     = {10.1038/s41598-026-41771-1},
+  url     = {https://doi.org/10.1038/s41598-026-41771-1},
+  publisher = {Nature Portfolio},
+  note    = {Paper ID P41; quality-appraisal score 78/100}
+}"
+P42,Tolle2025,10.1038/s41746-025-01434-3,"@article{Tolle2025,
+  author  = {Malte Tolle and Philipp Garthe and Clemens Scherer and Jan Moritz Seliger and Andreas Leha and Nina Kruger and Stefan Simm and Simon S. Martin and Sebastian Eble and Halvar Kelm and Moritz Bednorz and Florian Andre and Peter Bannas and Gerhard Diller and Norbert Frey and Stefan Gross and Anja Hennemuth and Lars Kaderali and Alexander Meyer and Eike Nagel and Stefan Orwat and Moritz Seiffert and Tim Friede and Tim Seidler and Sandy Engelhardt},
+  title   = {{Real world federated learning with a knowledge distilled transformer for cardiac CT imaging}},
+  journal = {npj Digital Medicine},
+  year    = {2025},
+  doi     = {10.1038/s41746-025-01434-3},
+  url     = {https://doi.org/10.1038/s41746-025-01434-3},
+  publisher = {Nature Portfolio},
+  note    = {Paper ID P42; quality-appraisal score 85/100}
+}"
+P43,Raggio2026,10.1007/s10916-026-02436-8,"@article{Raggio2026,
+  author  = {Ciro Benito Raggio and Lina Bucher and Oliver Blanck and Francesco Cicone and Paolo Zaffino and Maria Francesca Spadea},
+  title   = {{Security Analysis of a Federated Learning Framework for Medical Image-to-Image Translation}},
+  journal = {Journal of Medical Systems},
+  year    = {2026},
+  doi     = {10.1007/s10916-026-02436-8},
+  url     = {https://doi.org/10.1007/s10916-026-02436-8},
+  publisher = {Springer Science+Business Media},
+  note    = {Paper ID P43; quality-appraisal score 81/100}
+}"
+P44,Yinusa2025,10.1038/s41598-025-00890-x,"@article{Yinusa2025,
+  author  = {Ahmeed Yinusa and Misa Faezipour},
+  title   = {{A multi-layered defense against adversarial attacks in brain tumor classification using ensemble adversarial training and feature squeezing}},
+  journal = {Scientific Reports},
+  year    = {2025},
+  doi     = {10.1038/s41598-025-00890-x},
+  url     = {https://doi.org/10.1038/s41598-025-00890-x},
+  publisher = {Nature Portfolio},
+  note    = {Paper ID P44; quality-appraisal score 79/100}
+}"
+P45,Baral2025,10.1063/5.0270673,"@article{Baral2025,
+  author  = {Biswaraj Baral and Bhavika Bhalgamiya and Reek Majumder and Divya Dutta Roy and Taposh Dutta Roy},
+  title   = {{Adversarial attacks on hybrid classical-quantum deep learning models for histopathological cancer detection}},
+  journal = {APL Machine Learning},
+  year    = {2025},
+  doi     = {10.1063/5.0270673},
+  url     = {https://doi.org/10.1063/5.0270673},
+  publisher = {American Institute of Physics},
+  note    = {Paper ID P45; quality-appraisal score 79/100}
+}"
+P46,Onireti2025,10.1038/s41598-025-27472-1,"@article{Onireti2025,
+  author  = {Munirat Yetunde Onireti and Raj Mani Shukla and Tapadhir Das},
+  title   = {{Splitting smarter: Differential privacy for secure healthcare federated learning}},
+  journal = {Scientific Reports},
+  year    = {2025},
+  doi     = {10.1038/s41598-025-27472-1},
+  url     = {https://doi.org/10.1038/s41598-025-27472-1},
+  publisher = {Nature Portfolio},
+  note    = {Paper ID P46; quality-appraisal score 77/100}
+}"
+P47,Zhang2026,10.1016/j.neucom.2026.133970,"@article{Zhang2026,
+  author  = {Juexin Zhang and Ying Weng and Boding Wang and Rong Huang and Guoping Qiu},
+  title   = {{Purifying medical images with generative adversarial networks}},
+  journal = {Neurocomputing},
+  year    = {2026},
+  doi     = {10.1016/j.neucom.2026.133970},
+  url     = {https://doi.org/10.1016/j.neucom.2026.133970},
+  publisher = {Elsevier BV},
+  note    = {Paper ID P47; quality-appraisal score 76/100}
+}"
+P48,Parashar2026,10.1016/j.array.2026.100759,"@article{Parashar2026,
+  author  = {Jyoti Parashar and Bui Thanh Hung and Kamal Upreti and Pravin R. Kshirsagar and Shubham Mahajan and Seifedine Kadry},
+  title   = {{An enhanced hybrid framework for IoT healthcare security using blockchain-driven multimedia data analysis and cybersecurity techniques}},
+  journal = {Array},
+  year    = {2026},
+  doi     = {10.1016/j.array.2026.100759},
+  url     = {https://doi.org/10.1016/j.array.2026.100759},
+  publisher = {Elsevier BV},
+  note    = {Paper ID P48; quality-appraisal score 87/100}
+}"
+P49,Kaur2025,10.1186/s13638-025-02431-6,"@article{Kaur2025,
+  author  = {Navjeet Kaur and Ayush Mittal and Umesh Kumar Lilhore and Sarita Simaiya and Surjeet Dalal and Kashif Saleem and Ehab Seif Ghith},
+  title   = {{Securing fog computing in healthcare with a zero-trust approach and blockchain}},
+  journal = {EURASIP Journal on Wireless Communications and Networking},
+  year    = {2025},
+  doi     = {10.1186/s13638-025-02431-6},
+  url     = {https://doi.org/10.1186/s13638-025-02431-6},
+  publisher = {Springer Nature},
+  note    = {Paper ID P49; quality-appraisal score 83/100}
+}"
+P50,Anjum2025,10.1038/s41598-025-90908-1,"@article{Anjum2025,
+  author  = {Mohd Anjum and Naoufel Kraiem and Hong Min and Ashit Kumar Dutta and Yousef Ibrahim Daradkeh and Sana Shahab},
+  title   = {{Opportunistic access control scheme for enhancing IoT-enabled healthcare security using blockchain and machine learning}},
+  journal = {Scientific Reports},
+  year    = {2025},
+  doi     = {10.1038/s41598-025-90908-1},
+  url     = {https://doi.org/10.1038/s41598-025-90908-1},
+  publisher = {Nature Portfolio},
+  note    = {Paper ID P50; quality-appraisal score 76/100}
+}"

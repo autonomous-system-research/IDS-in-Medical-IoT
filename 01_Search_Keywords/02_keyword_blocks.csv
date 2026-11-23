@@ -1,0 +1,5 @@
+PICOC_block,keywords
+Population / Context,"""Internet of Medical Things"" OR ""IoMT"" OR ""medical IoT"" OR ""healthcare IoT"" OR ""Internet of Health Things"" OR ""wireless body area network"" OR ""WBAN"" OR ""hospital network"" OR ""smart healthcare"" OR ""medical imaging"" OR ""medical device"""
+Intervention,"""intrusion detection"" OR ""anomaly detection"" OR ""attack detection"" OR ""threat detection"" OR ""malware detection"" OR ""ransomware"" OR ""botnet"" OR ""DDoS"" OR ""adversarial attack"" OR ""adversarial defense"" OR ""differential privacy"" OR ""federated learning"" OR ""blockchain"" OR ""zero trust"""
+Method,"""deep learning"" OR ""machine learning"" OR ""CNN"" OR ""LSTM"" OR ""transformer"" OR ""graph neural network"" OR ""autoencoder"" OR ""reinforcement learning"" OR ""explainable AI"" OR ""SHAP"""
+Outcome,"""accuracy"" OR ""F1-score"" OR ""AUC"" OR ""detection rate"" OR ""false positive rate"" OR ""MCC"" OR ""privacy budget"" OR ""latency"""

@@ -1,0 +1,23 @@
+dataset,description,size_data_amount,features_classes,provenance_of_the_size_figure
+WUSTL-EHMS-2020,Real IoMT testbed: patient biometrics + network flow,"16,318 records (14,272 normal; 2,046 attack = 1,124 spoofing + 922 data alteration)",44 attributes (35 network-flow + 8 biometric + 1 label),Verified within this corpus from the full text of P02 and P39 (identical figures reported independently)
+CICIoMT2024 / CIC-IoMT-2024,"40 IoMT devices (25 real, 15 simulated) over Wi-Fi, MQTT and Bluetooth","Wi-Fi/MQTT partition approx. 4.89 million flow records (approx. 377k train / 98k test, authors' pre-split)",45 features; 6-class and 19-class task definitions; 18 attack subtypes + benign,Verified within this corpus from the full text of P18
+Edge-IIoTset,IoT/IIoT testbed traffic,"ML-ready partition 157,800 samples (training partition 94,680, 84.6% attack, as used by P02)",52 features after cleaning; 14 attack types,Verified within this corpus from the full text of P02; the raw release is substantially larger
+UNSW-NB15,Synthetic modern network traffic (ACCS testbed),"2,540,000+ flow records in total (training partition 1,524,028 as used by P02)",43 features after cleaning (49 in the raw release); nine attack categories,Partially verified within this corpus from the full text of P02; cross-check the canonical split against the dataset's source publication
+CIC-BCCC-NRC-IoMT2024,IoMT network traffic,Not verified within this corpus,Multiclass IoMT attack taxonomy,Named by P-level record R029; size not stated in the retrievable record
+ECU-IoHT,Internet of Health Things attack traffic,Not verified within this corpus,"Attack categories include ARP spoofing, DoS, Nmap port scan, Smurf",Named by several included studies; size not stated in their retrievable records
+IoT-Healthcare-Security / IoT Healthcare Security dataset,Healthcare IoT traffic,Not verified within this corpus,-,Named by included studies; size not stated in their retrievable records
+ToN-IoT / TON_IoT,"Telemetry, OS and network data from an IoT/IIoT testbed",Not verified within this corpus,Multiple attack families,Named by included studies; size not stated in their retrievable records
+BoT-IoT,Botnet traffic from an IoT testbed,Not verified within this corpus,"DDoS, DoS, reconnaissance, information theft",Named by included studies; size not stated in their retrievable records
+CICIDS2017 / CSE-CIC-IDS2018,Enterprise network intrusion traffic,Not verified within this corpus,Benign plus multiple attack families,Named by included studies; size not stated in their retrievable records
+CIC-DDoS2019,DDoS attack traffic,Not verified within this corpus,Reflective and exploitation DDoS families,Named by included studies; size not stated in their retrievable records
+NSL-KDD,Cleaned KDD-Cup 99 derivative,Not verified within this corpus,41 features; four attack categories,Named by P-level record R204; size not stated in the retrievable record
+IoT-23,Labelled malicious and benign IoT traffic captures,Not verified within this corpus,Malware capture scenarios,Named by included studies; size not stated in their retrievable records
+RT-IoT2022,Real-time IoT traffic,Not verified within this corpus,-,Named by P16; size not stated in the retrievable record
+Gotham Dataset 2025,IoT security testbed,"496,191 samples, 8 categories",-,Stated in the abstract of P33
+Edge-IIoTset (as used by P33),IoT/IIoT testbed traffic,"2,219,201 samples, 15 classes",-,Stated in the abstract of P33 (differs from the partition used by P02 - confirm which release each study used)
+CICIoMT2024 (as used by P33),IoMT network traffic,"3,204,537 samples, 19 classes",-,Stated in the abstract of P33
+MIMIC-III / MIMIC-IV,De-identified ICU clinical records,Not verified within this corpus,Used as the clinical modality in multimodal fusion studies,Named by included studies; size not stated in their retrievable records
+MedMNIST,Standardised biomedical image benchmark,Not verified within this corpus,Multiple 2D/3D biomedical imaging subsets,Named by a screened record; size not stated in the retrievable record
+LUNA16 / IQ-OTH-NCCD,Lung CT imaging,Not verified within this corpus,Lung nodule / lung cancer imaging,Named by P-level record R275; size not stated in the retrievable record
+MIAS / CBIS-DDSM,Mammography imaging,Not verified within this corpus,Benign / malignant mammographic lesions,Named by R310; size not stated in the retrievable record
+Cardiac CT multi-site cohort (P42),Cardiac CT scans from eight hospitals,"n = 8,104 scans, partially labelled",-,Stated in the abstract of P42

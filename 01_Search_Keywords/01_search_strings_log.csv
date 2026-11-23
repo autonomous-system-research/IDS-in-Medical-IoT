@@ -1,0 +1,15 @@
+search_id,search_string,filters,additional_filter,records_retrieved,database,date_run
+S01,intrusion detection internet of medical things,"publication_year:2025|2026, type:article",,50,OpenAlex (api.openalex.org/works),2026-11-17
+S02,intrusion detection healthcare internet of things,"publication_year:2025|2026, type:article",,50,OpenAlex (api.openalex.org/works),2026-11-17
+S03,federated learning intrusion detection healthcare,"publication_year:2025|2026, type:article",,50,OpenAlex (api.openalex.org/works),2026-11-17
+S04,anomaly detection medical device network security,"publication_year:2025|2026, type:article",,50,OpenAlex (api.openalex.org/works),2026-11-17
+S05,IoMT security deep learning attack detection,"publication_year:2025|2026, type:article",,50,OpenAlex (api.openalex.org/works),2026-11-17
+S06,blockchain healthcare IoT security framework detection,"publication_year:2025|2026, type:article",,50,OpenAlex (api.openalex.org/works),2026-11-17
+S07,federated learning medical imaging privacy preserving security,"publication_year:2025|2026, type:article",,50,OpenAlex (api.openalex.org/works),2026-11-17
+S08,adversarial attack defense medical image classification robustness,"publication_year:2025|2026, type:article",,50,OpenAlex (api.openalex.org/works),2026-11-17
+S09,wireless body area network security attack detection machine learning,"publication_year:2025|2026, type:article",,50,OpenAlex (api.openalex.org/works),2026-11-17
+S10,ransomware malware detection hospital healthcare network deep learning,"publication_year:2025|2026, type:article",,40,OpenAlex (api.openalex.org/works),2026-11-17
+S11,intrusion detection healthcare medical IoT security,publication_year:2025|2026,institutions.continent:europe,50,OpenAlex (api.openalex.org/works),2026-11-17
+S12,intrusion detection healthcare medical IoT security,publication_year:2025|2026,institutions.continent:north_america,50,OpenAlex (api.openalex.org/works),2026-11-17
+S13,federated learning medical image privacy attack defense,publication_year:2025|2026,institutions.continent:europe,50,OpenAlex (api.openalex.org/works),2026-11-17
+S14,medical imaging security adversarial detection deep learning,publication_year:2025|2026,institutions.continent:north_america,50,OpenAlex (api.openalex.org/works),2026-11-17

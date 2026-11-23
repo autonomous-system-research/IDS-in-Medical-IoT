@@ -1,0 +1,25 @@
+prisma_phase,item,n
+Identification,"Records identified through database searching (OpenAlex, 14 search strings, 17 Nov 2026)",690
+Identification,Duplicate records removed - identical DOI,93
+Identification,"Duplicate records removed - same title, different DOI/version",3
+Screening,Unique records screened by title,594
+Screening,Records excluded at title screening (total),352
+Screening,  - TS-E3 outside review scope (non-health or non-security),214
+Screening,  - TS-E1 secondary study (review/survey/comparative/taxonomy),89
+Screening,  - TS-E2 non-peer-reviewed source (preprint/Zenodo/TechRxiv/SSRN/thesis/report),30
+Screening,  - TS-E5 no resolvable DOI,14
+Screening,  - TS-E4 no security/detection/privacy focus,4
+Screening,  - reviewer override on borderline record,1
+Screening,Reports sought for retrieval,242
+Screening,Reports not retrieved - VE-E1 venue not indexed by an established publisher,89
+Eligibility,Reports assessed for eligibility at abstract level,153
+Eligibility,Reports excluded at abstract screening (total),41
+Eligibility,  - AS-E1 not a journal article (conference proceedings / book chapter),16
+Eligibility,  - AS-E5 abstract not retrievable (closed access),22
+Eligibility,  - AS-E2 secondary study confirmed at abstract level,2
+Eligibility,  - AS-E3 non-empirical (position paper / teaching case),1
+Quality appraisal,Studies assessed with the 10-item appraisal rubric,112
+Quality appraisal,Studies excluded - quality-appraisal score below 75/100,29
+Quality appraisal,Studies meeting the >=75/100 threshold,83
+Included,Studies not selected - thematic and geographic allocation rule,33
+Included,STUDIES INCLUDED IN THE REVIEW,50

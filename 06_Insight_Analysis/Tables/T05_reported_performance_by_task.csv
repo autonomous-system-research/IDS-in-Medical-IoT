@@ -1,0 +1,10 @@
+Primary task,n studies,n with a numeric value,Median headline value,Range,Headline metrics used
+ids detection,38,35,98.98,91.40-99.95,accuracy (25); F1 (5); none reported (2); weighted F1 (1); PR-AUC (1); macro score (metric name truncated in abstract) (1); macro-F1 (1); relative only (1); validation accuracy (1)
+malware detection,1,1,98.90,98.90-98.90,accuracy (1)
+image classification,3,2,87.03,78.05-96.00,clean accuracy (2); none reported (1)
+clinical utility,3,1,96.80,96.80-96.80,relative only (1); diagnostic accuracy (1); none reported (1)
+attack efficacy,2,0,n/a,n/a,attack efficacy (2)
+system efficiency,2,0,n/a,n/a,relative only (2)
+adversarial detection,1,0,n/a,n/a,none reported (1)
+
+NOTE,Values are NOT pooled across tasks: accuracy on a network IDS task and clean accuracy on a medical image classifier are not commensurable.

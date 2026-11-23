@@ -1,0 +1,47 @@
+check,result,detail
+Identification register = 690 raw records,PASS,690
+Deduplicated register = 594 unique records,PASS,594
+Title screening covers every unique record,PASS,594
+Title screening includes = 242,PASS,242
+Every title-screening row has a reason,PASS,
+Venue screening covers all title-includes,PASS,242
+Venue screening -> 153 sought for retrieval,PASS,153
+Abstract screening covers all retrieved,PASS,153
+Abstract screening includes = 112,PASS,112
+Every abstract-screening row has a reason,PASS,
+QA scored every abstract-include,PASS,112
+QA >= 75 -> 83 studies,PASS,83
+All QA totals equal the sum of their 10 item scores,PASS,
+No QA item score outside 0-10,PASS,
+Every QA row carries evidence for all 10 items,PASS,
+Exactly 50 studies flagged as selected,PASS,50
+No selected study scores below 75,PASS,
+Final-50 CSV has 50 rows,PASS,50
+BibTeX CSV has 50 rows,PASS,50
+Extraction table has 50 rows,PASS,50
+Final-50 DOIs are unique,PASS,
+BibTeX keys are unique,PASS,
+Final-50 DOI set == BibTeX DOI set,PASS,
+Final-50 DOI set == extraction DOI set,PASS,
+Final-50 record_ids all appear in abstract screening as INCLUDE,PASS,
+All final-50 years are 2025 or 2026,PASS,
+Year split 25/25,PASS,"{'2026': 25, '2025': 25}"
+All final-50 DOIs are well-formed,PASS,
+No preprint/self-archive DOI prefix in the final 50,PASS,
+No review/survey keyword in any final-50 title,PASS,
+EU/NA share >= 60%,PASS,31/50 = 62%
+Theme allocation 31/10/6/3,PASS,"{'T1_IDS_IOMT': 31, 'T2_FEDERATED_SECURITY': 10, 'T3_IMAGE_SECURITY': 6, 'T4_BLOCKCHAIN_HEALTHIOT': 3}"
+Every extraction row names at least one dataset field value,PASS,
+Every extraction row declares its provenance,PASS,
+PRISMA counts file present,PASS,
+PRISMA diagram present,PASS,
+QA workbook present,PASS,
+Extraction DOCX present,PASS,
+Paper tracker present,PASS,
+Fourteen figures present as PNG,PASS,"['Figure_01_PRISMA_flow.png', 'Figure_02_performance_ceiling.png', 'Figure_03_rigour_decoupling.png', 'Figure_04_reporting_practice_forest.png', 'Figure_05_metric_reporting_upset.png', 'Figure_06_alluvial_deployment.png', 'Figure_07_benchmark_matrix.png', 'Figure_08_quality_profile_heatmap.png', 'Figure_09_technique_chord.png', 'Figure_10_deployment_cliff.png', 'Figure_11_country_network.png', 'Figure_12_temporal_slopegraph.png', 'Figure_13_evidence_radar_by_theme.png', 'Figure_14_metric_space_map.png']"
+Fourteen figures present as vector PDF,PASS,"['Figure_01_PRISMA_flow.pdf', 'Figure_02_performance_ceiling.pdf', 'Figure_03_rigour_decoupling.pdf', 'Figure_04_reporting_practice_forest.pdf', 'Figure_05_metric_reporting_upset.pdf', 'Figure_06_alluvial_deployment.pdf', 'Figure_07_benchmark_matrix.pdf', 'Figure_08_quality_profile_heatmap.pdf', 'Figure_09_technique_chord.pdf', 'Figure_10_deployment_cliff.pdf', 'Figure_11_country_network.pdf', 'Figure_12_temporal_slopegraph.pdf', 'Figure_13_evidence_radar_by_theme.pdf', 'Figure_14_metric_space_map.pdf']"
+Figure captions file present,PASS,
+Table captions file present,PASS,
+Thirteen analysis tables present,PASS,
+Benchmark counts agree with the coded dataset,PASS,"[('(no named public benchmark)', 20), ('CICIoMT2024', 11), ('WUSTL-EHMS-2020', 10), ('Edge-IIoTset', 5)]"
+Table 3 benchmark counts match the usage table,PASS,

@@ -1,0 +1,32 @@
+check,result,detail
+Coded dataset has 50 studies,PASS,50
+Every study has a headline_task,PASS,
+Every study retains its verbatim source metric string,PASS,
+acc_ids only populated for detection tasks,PASS,"['ids_detection', 'malware_detection']"
+acc_ids values within 0-100,PASS,
+headline_value within 0-100 where present,PASS,
+evidential_rigour equals its four components,PASS,
+deployment_level in 0-3,PASS,
+every deployment level has an evidence string,PASS,
+deployment counts reconcile 39/8/2/1,PASS,"{0: 39, 1: 8, 2: 2, 3: 1}"
+uncertainty_reported count is 3,PASS,
+beyond_accuracy count is 9,PASS,
+acc_ids subset size is 27,PASS,
+paper ids P01-P50 unique,PASS,
+DOIs unique,PASS,
+every coded benchmark is evidenced in the metadata extraction,PASS,[]
+CICIDS2017 is not credited to CSE-CIC-IDS2018 studies,PASS,
+usage table agrees with the coded dataset,PASS,[]
+20 studies name no public benchmark,PASS,
+n_datasets equals the length of the benchmark list,PASS,
+13 manuscript tables present,PASS,13
+14 figures present,PASS,14
+vector PDFs present,PASS,
+figure captions present,PASS,
+table captions present,PASS,
+codebook present,PASS,
+analysis report present,PASS,
+pipeline scripts present,PASS,
+T02 covers 50 studies,PASS,50
+no figure embeds a caption or title helper,PASS,
+package checks still pass,PASS,46/46 checks passed

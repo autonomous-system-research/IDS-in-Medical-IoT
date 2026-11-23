@@ -1,0 +1,53 @@
+Paper ID,Study,Journal,Author-affiliation countries,Region,Theme,Learning topology,Named public benchmarks,n benchmarks,Headline value,Headline metric,Baseline,Robustness testing,Deployment level,QA /100,DOI
+P01,"Adabara et al., 2026",Scientific Reports,UG,OTHER,IDS in Medical IoT,centralised,CSE-CIC-IDS2018;CICIoMT2024,2,97.80,weighted F1,yes,yes,L0,92,10.1038/s41598-026-55707-2
+P02,"Kateb et al., 2026",Computers,SA;PK,OTHER,IDS in Medical IoT,centralised,Edge-IIoTset;WUSTL-EHMS-2020;UNSW-NB15,3,91.40,F1,yes,yes,L0,92,10.3390/computers15080512
+P03,"Saeed et al., 2025",Scientific Reports,PK;SA;CN,OTHER,IDS in Medical IoT,centralised,ECU-IoHT;CICIoT2023;CICIoMT2024;DF_IOMT;WUSTL-EHMS-2020,5,99.03,accuracy,yes,yes,L0,90,10.1038/s41598-025-31897-z
+P04,"Avula et al., 2025",Engineering Technology & Applied Science Research,IN,OTHER,IDS in Medical IoT,centralised,WUSTL-EHMS-2020;UNSW-NB15,2,99.61,accuracy,yes,yes,L0,90,10.48084/etasr.12242
+P05,"Palaniappan et al., 2026",Scientific Reports,IN,OTHER,IDS in Medical IoT,centralised,IoMT-TrafficData;CICIoMT2024,2,95.60,PR-AUC,yes,yes,L0,90,10.1038/s41598-026-47264-5
+P06,"Priyatharsan et al., 2026",Security and Privacy,IN,OTHER,IDS in Medical IoT,centralised,CICIoMT2024;ToN-IoT;WUSTL-EHMS-2020,3,99.43,macro score (metric name truncated in abstract),yes,yes,L0,90,10.1002/spy2.70249
+P07,"Gencturk et al., 2026",Applied Sciences,TR;SE,EU/NA,IDS in Medical IoT,centralised,ECU-IoHT;CICIoMT2024;WUSTL-EHMS-2020,3,99.87,F1,yes,yes,L0,88,10.3390/app16104921
+P08,"Alatawi et al., 2025",Scientific Reports,SA,OTHER,IDS in Medical IoT,centralised,none named in record,0,98.00,accuracy,yes,yes,L1,88,10.1038/s41598-025-11253-x
+P09,"Padmini et al., 2026",Discover Internet of Things,IN,OTHER,IDS in Medical IoT,centralised,CICIoT2023;CICIoMT2024,2,99.89,accuracy,no,yes,L0,88,10.1007/s43926-026-00531-3
+P10,"Berguiga et al., 2025",IEEE Access,SA;TN,OTHER,IDS in Medical IoT,edge/fog,Edge-IIoTset;IoTID20,2,99.92,accuracy,yes,no,L2,87,10.1109/access.2025.3543127
+P11,"Gueriani et al., 2025",ICT Express,GB;DZ,EU/NA,IDS in Medical IoT,centralised,Edge-IIoTset;CICIoMT2024,2,99.13,accuracy,no,yes,L0,86,10.1016/j.icte.2025.08.011
+P12,"Naik et al., 2025",Scientific Reports,IN;US;AE,EU/NA,IDS in Medical IoT,edge/fog,none named in record,0,94.30,F1,yes,yes,L1,86,10.1038/s41598-025-15292-2
+P13,"Aversano et al., 2026",International Journal of Information Security,IT,EU/NA,IDS in Medical IoT,centralised,IoMT-TrafficData;Crafted-IoMT;DoS-Flood;SlowDoS,4,99.85,F1,yes,no,L1,86,10.1007/s10207-026-01285-3
+P14,"Al-Otaibi et al., 2025",Scientific Reports,SA;PK,OTHER,IDS in Medical IoT,centralised,Umas,1,95.00,accuracy,yes,yes,L0,86,10.1038/s41598-025-31981-4
+P15,"Tanvir et al., 2026",Scientific Reports,US;BD;NO,EU/NA,IDS in Medical IoT,centralised,ToN-IoT,1,98.30,F1,no,yes,L0,85,10.1038/s41598-026-45041-y
+P16,"Samreen et al., 2026",Scientific Reports,SA;PK;GB,EU/NA,IDS in Medical IoT,centralised,RT-IoT2022,1,98.55,macro-F1,yes,yes,L0,85,10.1038/s41598-026-65467-8
+P17,"Alanazi et al., 2025",Computers Materials & Continua,SA;GB,EU/NA,IDS in Medical IoT,centralised,Edge-IIoTset,1,98.00,accuracy,yes,yes,L0,84,10.32604/cmc.2025.066753
+P18,"Sogut et al., 2026",Sensors,TR,EU/NA,IDS in Medical IoT,centralised,CICIoMT2024;WUSTL-EHMS-2020,2,99.75,accuracy,yes,no,L0,84,10.3390/s26134036
+P19,"Hosain et al., 2025",Scientific Reports,TR,EU/NA,IDS in Medical IoT,centralised,WUSTL-EHMS-2020,1,99.22,accuracy,yes,no,L0,83,10.1038/s41598-025-07790-0
+P20,"Alalwany et al., 2025",Sensors,SA;US,EU/NA,IDS in Medical IoT,centralised,none named in record,0,99.10,accuracy,yes,no,L0,81,10.3390/s25030624
+P21,"Goumidi et al., 2025",IEEE Access,CA,EU/NA,IDS in Medical IoT,centralised,UNSW-NB15,1,not reported,none reported,yes,no,L1,81,10.1109/access.2025.3563158
+P22,"Mezina et al., 2025",IEEE Access,CZ;FI,EU/NA,IDS in Medical IoT,centralised,none named in record,0,99.92,accuracy,yes,no,L0,81,10.1109/access.2025.3553966
+P23,"Akar et al., 2025",IEEE Access,TR;FR,EU/NA,IDS in Medical IoT,centralised,CICIoMT2024,1,98.00,accuracy,yes,no,L0,80,10.1109/access.2025.3526883
+P24,"Algamdi et al., 2025",IEEE Internet of Things Journal,GB,EU/NA,IDS in Medical IoT,centralised,none named in record,0,not reported,relative only,yes,no,L0,78,10.1109/jiot.2025.3611815
+P25,"Alnazzawi et al., 2026",Computer Modeling in Engineering & Sciences,SA;US;PK,EU/NA,IDS in Medical IoT,centralised,CICIDS2017;BoT-IoT;MedBIoT;IoT-23;WUSTL-EHMS-2020;UNSW-NB15,6,98.00,accuracy,no,no,L0,78,10.32604/cmes.2026.085378
+P26,"Alamri et al., 2026",Cluster Computing,SA;PK;GB,EU/NA,IDS in Medical IoT,edge/fog,ToN-IoT;BoT-IoT,2,99.80,accuracy,yes,yes,L1,77,10.1007/s10586-025-05932-7
+P27,"Hafid et al., 2025",Mathematics,US;MA,EU/NA,IDS in Medical IoT,centralised,none named in record,0,97.00,accuracy,yes,no,L0,76,10.3390/math13101574
+P28,"Alkahtani et al., 2026",PeerJ Computer Science,SA;US,EU/NA,IDS in Medical IoT,centralised,none named in record,0,99.79,accuracy,no,no,L0,76,10.7717/peerj-cs.3908
+P29,"Zachos et al., 2025",IEEE Access,PT;GB,EU/NA,IDS in Medical IoT,edge/fog,none named in record,0,not reported,none reported,no,no,L2,75,10.1109/access.2025.3547572
+P30,"Sun et al., 2025",IEEE Internet of Things Journal,CN;CA;SA,EU/NA,IDS in Medical IoT,centralised,IoT-IDS2021,1,98.30,accuracy,no,no,L0,75,10.1109/jiot.2025.3645938
+P31,"Joseph et al., 2026",IEEE Transactions on Emerging Topics in Computational Intelligence,IN;NO,EU/NA,IDS in Medical IoT,centralised,none named in record,0,not reported,none reported,no,yes,L0,75,10.1109/tetci.2026.3692606
+P32,"Begum et al., 2026",Scientific Reports,KR;AU,OTHER,Federated security,federated,LUNA16;IQ-OTH/NCCD,2,not reported,relative only,yes,yes,L0,92,10.1038/s41598-026-57992-3
+P33,"Al-Sharo et al., 2026",PLoS ONE,JO;YE;EG,OTHER,Federated security,federated,Edge-IIoTset;CICIoMT2024;Gotham2025,3,99.47,accuracy,yes,yes,L0,91,10.1371/journal.pone.0355601
+P34,"Alsolami et al., 2026",Sensors,SA;US,EU/NA,Federated security,federated,CICIoMT2024;WUSTL-EHMS-2020,2,94.60,accuracy,yes,no,L0,90,10.3390/s26051592
+P35,"Othman et al., 2026",Cognitive Computation,SA;LR,OTHER,Federated security,federated,CSE-CIC-IDS2018;MIMIC,2,97.50,accuracy,yes,yes,L0,90,10.1007/s12559-026-10610-w
+P36,"Othman et al., 2026",Scientific Reports,SA;YE,OTHER,Federated security,federated,none named in record,0,96.80,diagnostic accuracy,yes,yes,L1,88,10.1038/s41598-026-43649-8
+P37,"Sengan et al., 2026",Scientific Reports,TW;IN,OTHER,Federated security,federated,CICIoT2023;IoT-Flock,2,93.17,accuracy,yes,yes,L0,87,10.1038/s41598-026-56167-4
+P38,"Fahim-Ul-Islam et al., 2025",IEEE Transactions on Consumer Electronics,BD;MY,OTHER,Federated security,federated,none named in record,0,99.38,validation accuracy,yes,no,L0,83,10.1109/tce.2025.3544885
+P39,"Almohammadi et al., 2026",Frontiers in Medicine,SA;CN;NO;PK,EU/NA,Federated security,federated,WUSTL-EHMS-2020,1,93.50,accuracy,yes,no,L0,82,10.3389/fmed.2026.1989148
+P40,"Daulay et al., 2025",Mathematics,ID;GB,EU/NA,Federated security,federated,Kronodroid;Malgenome;TUANDROMD;Drebin,4,98.90,accuracy,yes,no,L0,81,10.3390/math13152471
+P41,"Baihan et al., 2026",Scientific Reports,SA;SK;CN;KR,EU/NA,Federated security,split federated,ToN-IoT,1,99.95,accuracy,no,yes,L0,78,10.1038/s41598-026-41771-1
+P42,"Tolle et al., 2025",npj Digital Medicine,DE,EU/NA,Medical image security,federated,none named in record,0,not reported,none reported,yes,yes,L3,85,10.1038/s41746-025-01434-3
+P43,"Raggio et al., 2026",Journal of Medical Systems,DE;IT,EU/NA,Medical image security,federated,none named in record,0,not reported,attack efficacy,yes,yes,L0,81,10.1007/s10916-026-02436-8
+P44,"Yinusa et al., 2025",Scientific Reports,US,EU/NA,Medical image security,centralised,none named in record,0,96.00,clean accuracy,yes,yes,L0,79,10.1038/s41598-025-00890-x
+P45,"Baral et al., 2025",APL Machine Learning,US,EU/NA,Medical image security,centralised,none named in record,0,78.05,clean accuracy,yes,yes,L0,79,10.1063/5.0270673
+P46,"Onireti et al., 2025",Scientific Reports,GB;US,EU/NA,Medical image security,split federated,none named in record,0,not reported,attack efficacy,yes,yes,L0,77,10.1038/s41598-025-27472-1
+P47,"Zhang et al., 2026",Neurocomputing,CN;GB,EU/NA,Medical image security,centralised,none named in record,0,not reported,none reported,yes,yes,L0,76,10.1016/j.neucom.2026.133970
+P48,"Parashar et al., 2026",Array,VN;IN;LB,OTHER,Blockchain healthcare IoT,edge/fog,none named in record,0,98.98,accuracy,yes,no,L1,87,10.1016/j.array.2026.100759
+P49,"Kaur et al., 2025",EURASIP Journal on Wireless Communications and Networking,IN;ET;SA;EG,OTHER,Blockchain healthcare IoT,edge/fog,none named in record,0,not reported,relative only,yes,no,L1,83,10.1186/s13638-025-02431-6
+P50,"Anjum et al., 2025",Scientific Reports,IN;SA;KR,OTHER,Blockchain healthcare IoT,centralised,none named in record,0,not reported,relative only,yes,no,L0,76,10.1038/s41598-025-90908-1
+
+NOTE,"Headline metric selected by the pre-specified rule: overall accuracy where reported, otherwise the task-appropriate primary metric. Deployment levels: L0 offline public datasets only; L1 own/simulated/crafted data; L2 named constrained hardware; L3 real multi-site clinical data."

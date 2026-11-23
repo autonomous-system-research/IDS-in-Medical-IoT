@@ -1,0 +1,9 @@
+Stratum,n,Median accuracy (%),IQR (%),Range (%)
+CICIoMT2024,7,99.13,98.52-99.61,94.60-99.89
+WUSTL-EHMS-2020,7,99.03,96.30-99.41,93.50-99.75
+No named public benchmark,7,99.10,98.49-99.59,97.00-99.92
+Two or more named benchmarks,13,99.13,98.00-99.75,93.17-99.92
+Federated designs,8,98.20,94.32-99.40,93.17-99.95
+Centralised / edge designs,19,99.10,98.00-99.77,95.00-99.92
+
+NOTE,"Commensurable subset only: n = 27 studies reporting an overall accuracy for a network intrusion, anomaly or malware detection task. Strata overlap."

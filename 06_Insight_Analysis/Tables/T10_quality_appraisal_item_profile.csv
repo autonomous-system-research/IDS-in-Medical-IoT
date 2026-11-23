@@ -1,0 +1,12 @@
+Item,Question (as in the review teams template),Mean,SD,Min,Max,n scoring >=9,n scoring <=6
+Q1,Is the review based on a focused question that is adequately formulated and described?,10.00,0.00,10,10,50,0
+Q2,Were eligibility criteria for included and excluded studies predefined and specified?,9.02,1.06,7,10,41,0
+Q3,"Did the literature search strategy use a comprehensive, systematic approach?",8.74,0.88,7,10,41,0
+Q4,"Were titles, abstracts, and full-text articles dually and independently reviewed for inclusion and exclusion to minimise bias?",7.86,1.57,5,10,10,9
+Q5,Was the quality of each included study rated independently by two or more reviewers using a standard method to appraise its internal validity?,7.48,1.52,5,10,19,9
+Q6,Were the included studies listed along with essential characteristics and results of each study?,8.74,1.54,5,10,30,4
+Q7,Was the publication bias assessed?,6.20,0.61,6,8,0,45
+Q8,Was heterogeneity assessed? (This question applies only to meta-analyses.),7.70,2.13,5,10,29,21
+Q9,Were the primary data collected and stored?,9.34,1.21,7,10,38,0
+Q10,How consistent is the information obtained from one source with information available from other sources?,8.48,0.65,8,10,20,0
+TOTAL,Total quality-appraisal score (/100),83.56,5.31,75,92,,
