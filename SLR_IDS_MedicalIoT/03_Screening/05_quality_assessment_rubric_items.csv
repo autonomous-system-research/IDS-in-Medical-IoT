@@ -1,0 +1,11 @@
+item_no,question_as_in_uploaded_template,scoring_basis_used_in_this_review
+1,Is the review based on a focused question that is adequately formulated and described?,"Clarity of the stated security problem, target environment (IoMT / medical imaging / federated healthcare) and proposed approach."
+2,Were eligibility criteria for included and excluded studies predefined and specified?,Whether the study specifies the data it uses (named dataset(s)) and the methods/models it applies.
+3,"Did the literature search strategy use a comprehensive, systematic approach?",Grounding against existing work: presence of comparative analysis and standing of the publication venue.
+4,"Were titles, abstracts, and full-text articles dually and independently reviewed for inclusion and exclusion to minimise bias?","Whether the proposed approach is validated against baseline or alternative methods, and how many comparators."
+5,Was the quality of each included study rated independently by two or more reviewers using a standard method to appraise its internal validity?,Dataset quality and representativeness: number of named datasets and whether sample sizes are reported.
+6,Were the included studies listed along with essential characteristics and results of each study?,Clarity of experimental reporting: number of numeric performance values reported.
+7,Was the publication bias assessed?,"Explicit discussion of limitations, bias, trade-offs (abstract-level proxy - flagged for full-text verification)."
+8,Was heterogeneity assessed? (This question applies only to meta-analyses.),"Robustness and generalisability: ablation, cross-dataset or cross-validation evidence."
+9,Were the primary data collected and stored?,Reproducibility: open-access status and use of identifiable public benchmark data.
+10,How consistent is the information obtained from one source with information available from other sources?,Consistency with the wider literature: venue standing and citation uptake to date.

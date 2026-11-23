@@ -1,0 +1,12 @@
+Indicator,n of 50,%,95% Wilson CI
+Reports a baseline comparison,41,82%,"[69, 90]"
+"Reports robustness, ablation or cross-dataset testing",29,58%,"[44, 71]"
+Uses two or more named public benchmarks,20,40%,"[28, 54]"
+Names at least one threat class in the record,18,36%,"[24, 50]"
+Reports latency,11,22%,"[13, 35]"
+Evaluates beyond offline public datasets (L1 or above),11,22%,"[13, 35]"
+Reports a metric beyond accuracy (MCC or AUC),9,18%,"[10, 31]"
+Reports energy consumption,4,8%,"[3, 19]"
+Reports dispersion on the headline metric (SD or CI),3,6%,"[2, 16]"
+Reports model size or parameter count,3,6%,"[2, 16]"
+Validates on named constrained hardware (L2 or above),3,6%,"[2, 16]"

@@ -1,0 +1,14 @@
+No,Quality assessment criterion,Yes,No,Other,Score /10,Evidence used
+1,Is the review based on a focused question that is adequately formulated and described?,Yes,,,10,stated problem domain: IoMT healthcare cybersecurity intrusion detection; method specified: yes
+2,Were eligibility criteria for included and excluded studies predefined and specified?,Yes,,,10,3 named dataset(s); method description explicit
+3,"Did the literature search strategy use a comprehensive, systematic approach?",Yes,,,9,venue tier 2; comparative analysis reported: True
+4,"Were titles, abstracts, and full-text articles dually and independently reviewed for inclusion and exclusion to minimise bias?",Yes,,,10,baseline comparison: True; multiple comparators evident: True
+5,Was the quality of each included study rated independently by two or more reviewers using a standard method to appraise its internal validity?,Yes,,,9,3 named dataset(s); explicit sample size reported: False
+6,Were the included studies listed along with essential characteristics and results of each study?,Yes,,,10,6 numeric performance value(s) reported in the retrievable record
+7,Was the publication bias assessed?,,,Other,6,abstract-level proxy: no explicit limitation signal; VERIFY AGAINST FULL TEXT
+8,Was heterogeneity assessed? (This question applies only to meta-analyses.),Yes,,,10,robustness/ablation/cross-dataset evidence: True; datasets used: 3
+9,Were the primary data collected and stored?,Yes,,,10,open access: True; public benchmark data identified: True
+10,How consistent is the information obtained from one source with information available from other sources?,Yes,,,8,venue tier 2; citations to date: 0
+Total,,,,,92,Quality rating: Good (threshold >= 75)
+
+NOTE,Worked example: P02 - From Classical to Deep Learning: A Hybrid CNN-Ensemble Framework for Intrusion Detection in Internet of Medical Things (DOI 10.3390/computers15080512).

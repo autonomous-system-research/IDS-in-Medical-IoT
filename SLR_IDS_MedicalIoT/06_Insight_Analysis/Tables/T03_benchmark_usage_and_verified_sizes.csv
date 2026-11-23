@@ -1,0 +1,33 @@
+Benchmark,n studies,% of 50,Size / data amount,Provenance of the size figure,Studies
+CICIoMT2024,11,22%,"approx. 4.89 million flow records in the Wi-Fi/MQTT partition (approx. 377k train / 98k test); 45 features; 40 devices (25 real, 15 simulated); 6-class and 19-class tasks",Verified from the full text of P18,P01;P03;P05;P06;P07;P09;P11;P18;P23;P33;P34
+WUSTL-EHMS-2020,10,20%,"16,318 records (14,272 normal; 2,046 attack = 1,124 spoofing + 922 data alteration); 44 attributes (35 network-flow + 8 biometric + label)",Verified independently from the full texts of P02 and P39,P02;P03;P04;P06;P07;P18;P19;P25;P34;P39
+Edge-IIoTset,5,10%,"ML-ready partition 157,800 samples (training partition 94,680, 84.6% attack); 52 features; 14 attack types",Verified from the full text of P02,P02;P10;P11;P17;P33
+UNSW-NB15,4,8%,"2,540,000+ flow records (training partition 1,524,028); 43 features after cleaning; nine attack categories",Partially verified from the full text of P02,P02;P04;P21;P25
+ToN-IoT,4,8%,not verified within this review,named by included studies; size not stated in their retrievable records,P06;P15;P26;P41
+CICIoT2023,3,6%,not verified within this review,named by included studies; size not stated in their retrievable records,P03;P09;P37
+CSE-CIC-IDS2018,2,4%,not verified within this review,named by included studies; size not stated in their retrievable records,P01;P35
+ECU-IoHT,2,4%,not verified within this review,named by included studies; size not stated in their retrievable records,P03;P07
+IoMT-TrafficData,2,4%,not verified within this review,named by included studies; size not stated in their retrievable records,P05;P13
+BoT-IoT,2,4%,not verified within this review,named by included studies; size not stated in their retrievable records,P25;P26
+DF_IOMT,1,2%,not verified within this review,named by included studies; size not stated in their retrievable records,P03
+IoTID20,1,2%,not verified within this review,named by included studies; size not stated in their retrievable records,P10
+Crafted-IoMT,1,2%,not verified within this review,named by included studies; size not stated in their retrievable records,P13
+DoS-Flood,1,2%,not verified within this review,named by included studies; size not stated in their retrievable records,P13
+SlowDoS,1,2%,not verified within this review,named by included studies; size not stated in their retrievable records,P13
+Umas,1,2%,not verified within this review,named by included studies; size not stated in their retrievable records,P14
+RT-IoT2022,1,2%,not verified within this review,named by included studies; size not stated in their retrievable records,P16
+CICIDS2017,1,2%,not verified within this review,named by included studies; size not stated in their retrievable records,P25
+MedBIoT,1,2%,not verified within this review,named by included studies; size not stated in their retrievable records,P25
+IoT-23,1,2%,not verified within this review,named by included studies; size not stated in their retrievable records,P25
+IoT-IDS2021,1,2%,not verified within this review,named by included studies; size not stated in their retrievable records,P30
+LUNA16,1,2%,not verified within this review,named by included studies; size not stated in their retrievable records,P32
+IQ-OTH/NCCD,1,2%,not verified within this review,named by included studies; size not stated in their retrievable records,P32
+Gotham2025,1,2%,"496,191 samples; 8 categories",Stated in the abstract of P33,P33
+MIMIC,1,2%,not verified within this review,named by included studies; size not stated in their retrievable records,P35
+IoT-Flock,1,2%,not verified within this review,named by included studies; size not stated in their retrievable records,P37
+Kronodroid,1,2%,not verified within this review,named by included studies; size not stated in their retrievable records,P40
+Malgenome,1,2%,not verified within this review,named by included studies; size not stated in their retrievable records,P40
+TUANDROMD,1,2%,not verified within this review,named by included studies; size not stated in their retrievable records,P40
+Drebin,1,2%,not verified within this review,named by included studies; size not stated in their retrievable records,P40
+
+NOTE,Size figures are reported only where verified within this corpus. No size is taken from the reviewers prior knowledge.

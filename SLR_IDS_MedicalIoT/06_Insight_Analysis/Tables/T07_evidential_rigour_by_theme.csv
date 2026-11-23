@@ -1,0 +1,8 @@
+Theme,n,Baseline compared,Robustness tested,>=2 named benchmarks,Metric beyond accuracy,Dispersion reported,Mean Evidential Rigour Index (0-4),Median QA /100
+IDS in Medical IoT,31,23/31,17/31,14/31,6/31,1/31,1.94,85.0
+Federated security,10,9/10,6/10,6/10,2/10,2/10,2.30,87.5
+Medical image security,6,6/6,6/6,0/6,1/6,0/6,2.17,79.0
+Blockchain healthcare IoT,3,3/3,0/3,0/3,0/3,0/3,1.00,83.0
+ALL STUDIES,50,41/50,29/50,20/50,9/50,3/50,1.98,84.0
+
+NOTE,Evidential Rigour Index = baseline + robustness + two or more named benchmarks + a metric beyond accuracy.

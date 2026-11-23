@@ -1,0 +1,14 @@
+code,type,criterion,applied_at_stage
+IC1,Inclusion,"Peer-reviewed journal article published 2025-2026, in English",Title / Abstract
+IC2,Inclusion,Journal of an established publisher indexed in Scopus/WoS/IEEE Xplore/PubMed,Venue eligibility
+IC3,Inclusion,Primary empirical study proposing and evaluating a security/privacy mechanism,Abstract
+IC4,Inclusion,In scope: IoMT/healthcare-IoT/WBAN intrusion or anomaly detection; medical image security; federated healthcare security; blockchain healthcare IoT,Title / Abstract
+IC5,Inclusion,Reports a described method and at least one quantitative result,Abstract / QA
+EC1,Exclusion,"Review, survey, systematic review, bibliometric study, taxonomy, tutorial, roadmap or comparison-only study",Title / Abstract
+EC2,Exclusion,"Non-peer-reviewed: preprint (arXiv, Preprints.org, Research Square, TechRxiv, SSRN), Zenodo self-archive, thesis, technical report",Title
+EC3,Exclusion,Conference proceedings or book chapter,Abstract
+EC4,Exclusion,Venue not indexed in Scopus/WoS/IEEE Xplore/PubMed or predatory-risk publisher,Venue eligibility
+EC5,Exclusion,"Outside the healthcare/medical context, or no security/privacy/detection objective",Title / Abstract
+EC6,Exclusion,No retrievable abstract; eligibility cannot be assessed,Abstract
+EC7,Exclusion,"Position paper, editorial, commentary, teaching case or dataset-only paper",Abstract
+QA,Threshold,Quality-appraisal score >= 75 / 100 on the ten-item NIH/Zeng-derived rubric,Quality assessment

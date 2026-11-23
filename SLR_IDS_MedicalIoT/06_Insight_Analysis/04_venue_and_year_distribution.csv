@@ -1,0 +1,66 @@
+dimension,value,n
+journal,Scientific Reports,16
+journal,IEEE Access,5
+journal,Sensors,3
+journal,IEEE Internet of Things Journal,2
+journal,Mathematics,2
+journal,Computers,1
+journal,Engineering Technology & Applied Science Research,1
+journal,Security and Privacy,1
+journal,Applied Sciences,1
+journal,Discover Internet of Things,1
+journal,ICT Express,1
+journal,International Journal of Information Security,1
+journal,Computers Materials & Continua,1
+journal,Computer Modeling in Engineering & Sciences,1
+journal,Cluster Computing,1
+journal,PeerJ Computer Science,1
+journal,IEEE Transactions on Emerging Topics in Computational Intelligence,1
+journal,PLoS ONE,1
+journal,Cognitive Computation,1
+journal,IEEE Transactions on Consumer Electronics,1
+journal,Frontiers in Medicine,1
+journal,npj Digital Medicine,1
+journal,Journal of Medical Systems,1
+journal,APL Machine Learning,1
+journal,Neurocomputing,1
+journal,Array,1
+journal,EURASIP Journal on Wireless Communications and Networking,1
+year,2025,25
+year,2026,25
+publisher,Nature Portfolio,17
+publisher,Institute of Electrical and Electronics Engineers,9
+publisher,Multidisciplinary Digital Publishing Institute,7
+publisher,Springer Science+Business Media,4
+publisher,Elsevier BV,3
+publisher,Springer Nature,2
+publisher,Tech Science Press,2
+publisher,"Engineering, Technology & Applied Science Research",1
+publisher,Wiley,1
+publisher,"PeerJ, Inc.",1
+publisher,Public Library of Science,1
+publisher,Frontiers Media,1
+publisher,American Institute of Physics,1
+theme,T1_IDS_IOMT,31
+theme,T2_FEDERATED_SECURITY,10
+theme,T3_IMAGE_SECURITY,6
+theme,T4_BLOCKCHAIN_HEALTHIOT,3
+region,EU/NA,31
+region,OTHER,19
+qa_score,75,3
+qa_score,76,4
+qa_score,77,2
+qa_score,78,3
+qa_score,79,2
+qa_score,80,1
+qa_score,81,5
+qa_score,82,1
+qa_score,83,3
+qa_score,84,2
+qa_score,85,3
+qa_score,86,4
+qa_score,87,3
+qa_score,88,4
+qa_score,90,6
+qa_score,91,1
+qa_score,92,3
